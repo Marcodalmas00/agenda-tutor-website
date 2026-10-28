@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcodalmas00.github.io/agenda-tutor-website/sitemap.xml

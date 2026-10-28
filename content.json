@@ -1,0 +1,304 @@
+{
+  "it": {
+    "home": {
+      "title": "Agenda Tutor: risorse e assistenza",
+      "lead": "Agenda Tutor è un’app per iPhone per organizzare lezioni private, studenti e pagamenti registrati. È attualmente in beta privata.",
+      "sections": [
+        {
+          "title": "Beta a invito",
+          "paragraphs": [
+            "L’accesso alla beta avviene tramite un invito TestFlight. Questo sito raccoglie le informazioni sulla privacy e i riferimenti per l’assistenza; non offre un download pubblico dell’app."
+          ]
+        },
+        {
+          "title": "Informazioni utili",
+          "paragraphs": [
+            "Nella pagina Privacy trovi come vengono gestiti l’archivio locale, le condivisioni e i messaggi di assistenza. Nella pagina Assistenza trovi indicazioni su Calendario, backup, materiali e beta.",
+            "Per assistenza e richieste sulla privacy puoi scrivere a dev@marcodalmas00.com. Descrivi il problema usando dati inventati, senza inviare informazioni reali degli studenti."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy di Agenda Tutor",
+      "lead": "Informativa relativa all’app per iPhone e a questo sito di risorse. Ultimo aggiornamento: 28 ottobre 2026.",
+      "sections": [
+        {
+          "title": "Chi gestisce i dati",
+          "paragraphs": [
+            "Lo sviluppatore è Marco Dal Mas. Per assistenza e privacy: dev@marcodalmas00.com. Marco Dal Mas è titolare del trattamento dei dati che riceve per gestire richieste di assistenza e feedback.",
+            "Il tutor decide quali dati degli studenti inserire nell’agenda e per quali scopi, ed è responsabile del loro utilizzo secondo il proprio ruolo e la normativa applicabile. L’archivio dell’app non viene inviato allo sviluppatore."
+          ]
+        },
+        {
+          "title": "L’archivio sul tuo iPhone",
+          "paragraphs": [
+            "Agenda Tutor conserva localmente studenti e paganti, contatti inseriti manualmente, materie, lezioni, presenze, appunti didattici, prossimi passi, note personali facoltative, importi, metodi e date dei pagamenti registrati, pacchetti, rimborsi e allegati selezionati.",
+            "Non serve un account nell’app. Questa versione non ha un backend dello sviluppatore, pubblicità, analytics propri o tracciamento, e non sincronizza il proprio archivio con iCloud. Il registro economico non trasferisce denaro e non acquisisce credenziali bancarie o dati di carte per pagare le lezioni."
+          ]
+        },
+        {
+          "title": "Foto, file e note personali",
+          "paragraphs": [
+            "I selettori di iPhone consentono di scegliere i singoli file o le immagini da copiare nell’app come materiali o ricevute. L’app non esamina l’intera libreria fotografica, non accede alla rubrica e non usa la fotocamera per questa funzione.",
+            "Preferenze, sport, interessi, difficoltà e contesto dello studente sono campi facoltativi. Inserisci soltanto informazioni pertinenti alla relazione didattica."
+          ]
+        },
+        {
+          "title": "Una copia in Calendario",
+          "paragraphs": [
+            "Aggiungi a Calendario apre l’editor Apple con nomi dei partecipanti, materia se presente, luogo, inizio, fine, fuso orario e avviso iniziale 30 minuti prima. Puoi modificare la proposta, scegliere un calendario e salvare oppure annullare. Non vengono copiati appunti didattici, note personali o pagamenti.",
+            "L’app non richiede accesso completo e non legge gli eventi già presenti. Se scegli un calendario iCloud disponibile sul dispositivo, Apple può sincronizzare quella copia secondo le tue impostazioni. Spostamenti e annullamenti successivi nell’app non aggiornano la copia; aggiungerla di nuovo crea un altro evento."
+          ]
+        },
+        {
+          "title": "Condivisioni e backup",
+          "paragraphs": [
+            "Scegli tu destinatario, app o provider per report, solleciti preparati e backup. Il backup completo comprende anche note personali e allegati; i report PDF e CSV escludono i cinque campi personali contestuali, ma possono contenere nomi, note didattiche e importi. Controlla il contenuto prima di condividerlo.",
+            "L’app non aggiunge una password al backup esportato. Le copie vanno custodite nella destinazione scelta. Separatamente, i dati dell’app possono essere inclusi nei backup del dispositivo Apple secondo le tue impostazioni: questo non costituisce sincronizzazione iCloud dell’agenda."
+          ]
+        },
+        {
+          "title": "Promemoria e servizi Apple",
+          "paragraphs": [
+            "I promemoria locali dell’app sono facoltativi e chiedono il permesso quando li abiliti. Possono mostrare nome e materia 15 minuti prima della lezione. Puoi disattivarli e controllare le anteprime nelle impostazioni iPhone. Sono distinti dagli avvisi degli eventi Calendario.",
+            "Gli eventuali acquisti Pro passano da StoreKit e dai servizi Apple. L’app verifica i diritti sul dispositivo; lo sviluppatore non riceve tramite l’app i dati della carta usata con Apple."
+          ]
+        },
+        {
+          "title": "Beta TestFlight e feedback",
+          "paragraphs": [
+            "Apple può rendere disponibili allo sviluppatore diagnostica della beta e feedback inviato dal tester, compresi testo e screenshot condivisi. È un canale distinto da analytics implementati nell’app. Per segnalare problemi usa dati inventati ed evita immagini con informazioni reali degli studenti."
+          ]
+        },
+        {
+          "title": "Messaggi di assistenza e conservazione",
+          "paragraphs": [
+            "Se scrivi all’assistenza, riceviamo indirizzo email, messaggio e allegati che scegli di inviare. Li usiamo per gestire la richiesta e rispondere, conservandoli per il tempo necessario a questo scopo, agli eventuali approfondimenti e agli obblighi applicabili.",
+            "Quando si applica il GDPR, la risposta alle richieste e la gestione dei problemi segnalati si basano sul legittimo interesse a fornire assistenza. Se necessario per un servizio contrattuale richiesto o per obblighi di legge, si applicano le rispettive basi giuridiche. La posta è gestita anche attraverso il relativo provider."
+          ]
+        },
+        {
+          "title": "Eliminazione dei dati e copie esterne",
+          "paragraphs": [
+            "Archiviare uno studente conserva lezioni e storia economica. Per rimuovere l’intero archivio locale usa Elimina app e i relativi dati su iPhone. Rimuovere soltanto l’icona o liberare spazio mantenendo i dati non equivale a eliminarlo.",
+            "Backup del dispositivo, eventi Calendario, file esportati e copie inviate ad altri restano indipendenti: gestiscili nelle rispettive destinazioni. Lo sviluppatore non può recuperare o cancellare a distanza un archivio locale che non riceve."
+          ]
+        },
+        {
+          "title": "Questo sito e gli altri fornitori",
+          "paragraphs": [
+            "Il sito è ospitato su GitHub Pages. GitHub può registrare indirizzi IP e informazioni tecniche per erogare e proteggere il servizio; questi log non sono analytics dello sviluppatore. Il sito non integra strumenti propri di profilazione o pubblicità.",
+            "Apple, GitHub, i provider di posta e le destinazioni scelte per le condivisioni applicano le proprie informative, anche per trattamenti in paesi diversi dal tuo."
+          ]
+        },
+        {
+          "title": "Richieste e diritti",
+          "paragraphs": [
+            "Per i dati ricevuti dallo sviluppatore puoi scrivere a dev@marcodalmas00.com e chiedere, dove previsti, accesso, rettifica, cancellazione, limitazione, opposizione e portabilità. Puoi proporre reclamo all’autorità di controllo competente, in Italia il Garante per la protezione dei dati personali.",
+            "Per informazioni contenute nell’agenda di un tutor rivolgiti al tutor che le gestisce. Eventuali cambiamenti nei flussi dell’app o del sito saranno descritti in un’informativa aggiornata."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "Assistenza per Agenda Tutor",
+      "lead": "Per aiuto, segnalazioni sulla beta e richieste sulla privacy scrivi a dev@marcodalmas00.com.",
+      "sections": [
+        {
+          "title": "Scrivere all’assistenza",
+          "paragraphs": [
+            "Indica il modello di iPhone, la versione di iOS e la versione o build dell’app. Descrivi i passaggi, cosa ti aspettavi e cosa è successo. Se alleghi immagini, usa dati inventati o nascondi nomi, contatti, note e importi reali degli studenti.",
+            "Non inviare password, credenziali Apple o bancarie, backup completi dell’agenda o documenti personali. Per descrivere il problema è sufficiente un esempio sintetico."
+          ]
+        },
+        {
+          "title": "Accesso alla beta TestFlight",
+          "paragraphs": [
+            "La beta è privata e richiede un invito TestFlight. Usa l’invito ricevuto e le istruzioni di Apple; questo sito non offre un download pubblico. Puoi inviare feedback tramite TestFlight oppure via email, evitando dati reali degli studenti.",
+            "La modalità dimostrativa usa un’agenda separata da quella reale. Le modifiche ai dati della demo non cambiano l’archivio della tua attività."
+          ]
+        },
+        {
+          "title": "Aggiungi a Calendario",
+          "paragraphs": [
+            "Apri una lezione programmata e scegli Aggiungi a Calendario. L’editor Apple propone titolo, luogo, orari e un avviso 30 minuti prima. Scegli il calendario desiderato, anche iCloud se già disponibile sul dispositivo, poi modifica e salva oppure annulla.",
+            "È una copia indipendente. Se sposti o annulli la lezione in Agenda Tutor, modifica anche l’evento in Calendario. Ripetere l’aggiunta crea un altro evento. L’avviso dell’evento è distinto dal promemoria locale dell’app, che è facoltativo e anticipa la lezione di 15 minuti."
+          ]
+        },
+        {
+          "title": "Backup e ripristino",
+          "paragraphs": [
+            "Da Impostazioni puoi esportare un backup completo e conservarlo in File o in una destinazione scelta da te. Include studenti, note personali, lezioni, registro economico e allegati; l’app non aggiunge una password al file.",
+            "Il ripristino mostra un’anteprima e sostituisce l’archivio dopo conferma, conservando una copia di recupero locale del precedente. Prima di cambiare dispositivo o eliminare l’app, salva anche una copia fuori dall’app. Il backup del dispositivo Apple è un servizio separato: l’agenda non ha sincronizzazione iCloud propria."
+          ]
+        },
+        {
+          "title": "Note, materiali e ricevute",
+          "paragraphs": [
+            "Nella scheda dello studente, Note dello studente riunisce appunti didattici, prossimi passi e contesto personale facoltativo. I materiali didattici possono essere file o immagini selezionati con i selettori di iPhone. Nel modulo di modifica, aggiunte e rimozioni si applicano quando salvi; Annulla scarta la bozza.",
+            "Le ricevute e le note di pagamento appartengono al relativo pagamento. Aggiungerle o rimuoverle non cambia l’importo registrato. Rimuovere un allegato dall’app non elimina l’originale dalla libreria o dal provider scelto."
+          ]
+        },
+        {
+          "title": "Pagamenti, Free e Pro",
+          "paragraphs": [
+            "Registra pagamento serve a annotare denaro già ricevuto. L’app non richiede bonifici, non trasferisce fondi e non accede al tuo conto Hype, Revolut o bancario. Un importo ricevuto oltre il dovuto diventa credito dello studente.",
+            "Free prevede fino a tre studenti attivi. Pro è previsto per ampliare i limiti e alcune funzioni. Nella beta i prodotti e gli acquisti possono non essere ancora disponibili: fanno fede le opzioni mostrate nell’app e nell’interfaccia Apple. Questo sito non vende abbonamenti e non pubblica prezzi."
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "home": {
+      "title": "Agenda Tutor: resources and support",
+      "lead": "Agenda Tutor is an iPhone app for organizing private lessons, students and recorded payments. It is currently in private beta.",
+      "sections": [
+        {
+          "title": "An invitation-only beta",
+          "paragraphs": [
+            "Beta access requires a TestFlight invitation. This website provides privacy information and support resources; it does not offer a public app download."
+          ]
+        },
+        {
+          "title": "Useful information",
+          "paragraphs": [
+            "The Privacy page explains the local database, sharing and support messages. The Support page covers Calendar, backups, materials and beta access.",
+            "For support and privacy requests, write to dev@marcodalmas00.com. Explain the issue using fictional examples without sending real student information."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Agenda Tutor privacy",
+      "lead": "Privacy notice for the iPhone app and this resources website. Last updated: 28 October 2026.",
+      "sections": [
+        {
+          "title": "Who handles the data",
+          "paragraphs": [
+            "The developer is Marco Dal Mas. Support and privacy contact: dev@marcodalmas00.com. Marco Dal Mas is the controller of data received to handle support requests and feedback.",
+            "The tutor decides which student information to enter in the agenda and for what purposes, and is responsible for its use according to their role and applicable law. The app does not send its database to the developer."
+          ]
+        },
+        {
+          "title": "The database on your iPhone",
+          "paragraphs": [
+            "Agenda Tutor stores students and payers, manually entered contacts, subjects, lessons, attendance, teaching notes, next steps, optional personal-context notes, recorded payment amounts, methods and dates, packages, refunds and selected attachments locally.",
+            "No app account is required. This version has no developer-operated backend, advertising, developer analytics or tracking, and does not synchronize its own database with iCloud. The payment ledger does not transfer money or obtain bank credentials or card details to pay for lessons."
+          ]
+        },
+        {
+          "title": "Photos, files and personal notes",
+          "paragraphs": [
+            "iPhone’s pickers let you select individual files or images to copy into the app as materials or receipts. The app does not inspect your entire photo library, access your address book or use the camera for this feature.",
+            "Student preferences, sports, interests, difficulties and background are optional fields. Enter only information relevant to your teaching relationship."
+          ]
+        },
+        {
+          "title": "A copy in Calendar",
+          "paragraphs": [
+            "Add to Calendar opens Apple’s editor with participant names, the subject if present, location, start, end, time zone and an initial alert 30 minutes before. You can edit the proposal, select a calendar, and save or cancel. Teaching notes, personal-context notes and payments are not copied.",
+            "The app does not request full access or read existing events. If you select an iCloud calendar available on your device, Apple may synchronize that copy according to your settings. Later moves and cancellations in the app do not update the copy; adding it again creates another event."
+          ]
+        },
+        {
+          "title": "Sharing and backups",
+          "paragraphs": [
+            "You choose the recipient, app or provider for reports, prepared reminders and backups. A complete backup includes personal notes and attachments. PDF and CSV reports exclude the five personal-context fields, but may contain names, teaching notes and amounts. Check the content before sharing it.",
+            "The app does not add a password to exported backups. Keep copies appropriately at your chosen destination. Separately, Apple device backups may include the app’s data according to your settings; this is not iCloud synchronization of the agenda."
+          ]
+        },
+        {
+          "title": "Reminders and Apple services",
+          "paragraphs": [
+            "The app’s local reminders are optional and request permission when enabled. They may display a name and subject 15 minutes before the lesson. You can disable them and control notification previews in iPhone Settings. They are separate from Calendar event alerts.",
+            "Any Pro purchases use StoreKit and Apple services. The app verifies entitlements on the device; the developer does not receive your Apple payment card details through the app."
+          ]
+        },
+        {
+          "title": "TestFlight beta and feedback",
+          "paragraphs": [
+            "Apple may make beta diagnostics and tester-submitted feedback available to the developer, including shared text and screenshots. This is separate from analytics implemented in the app. Use fictional examples when reporting issues and avoid images containing real student information."
+          ]
+        },
+        {
+          "title": "Support messages and retention",
+          "paragraphs": [
+            "When you contact support, we receive your email address, message and any attachments you choose to send. We use them to handle your request and reply, retaining them for as long as needed for this purpose, related follow-up and applicable obligations.",
+            "Where the GDPR applies, responding to requests and handling reported issues is based on the legitimate interest in providing support. Where necessary for a requested contractual service or legal obligations, those respective legal bases apply. Email is also handled through the relevant mail provider."
+          ]
+        },
+        {
+          "title": "Deleting data and external copies",
+          "paragraphs": [
+            "Archiving a student keeps their lessons and financial history. To remove the entire local database, use Delete App and its associated data on iPhone. Removing only the icon or freeing storage while keeping app data does not delete the database.",
+            "Device backups, Calendar events, exported files and copies sent to others remain independent; manage them at their respective destinations. The developer cannot remotely retrieve or erase a local database that they do not receive."
+          ]
+        },
+        {
+          "title": "This website and other providers",
+          "paragraphs": [
+            "This website is hosted on GitHub Pages. GitHub may record IP addresses and technical information to operate and secure the service; these logs are not developer analytics. The website does not integrate its own profiling or advertising tools.",
+            "Apple, GitHub, email providers and your chosen sharing destinations apply their own privacy notices, including for processing in countries other than yours."
+          ]
+        },
+        {
+          "title": "Requests and rights",
+          "paragraphs": [
+            "For data received by the developer, contact dev@marcodalmas00.com to request access, correction, erasure, restriction, objection or portability where those rights apply. You may complain to the competent supervisory authority, including Italy’s Garante per la protezione dei dati personali.",
+            "For information held in a tutor’s agenda, contact the tutor managing it. Changes to the app’s or website’s data flows will be described in an updated notice."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "Agenda Tutor support",
+      "lead": "For help, beta reports and privacy requests, write to dev@marcodalmas00.com.",
+      "sections": [
+        {
+          "title": "Contacting support",
+          "paragraphs": [
+            "Include your iPhone model, iOS version, and app version or build. Describe the steps, what you expected and what happened. If you attach images, use fictional examples or hide real student names, contacts, notes and amounts.",
+            "Do not send passwords, Apple or bank credentials, complete agenda backups or personal documents. A small example is enough to explain the issue."
+          ]
+        },
+        {
+          "title": "TestFlight beta access",
+          "paragraphs": [
+            "The beta is private and requires a TestFlight invitation. Follow the invitation and Apple’s instructions; this website does not provide a public download. You can send feedback through TestFlight or email without including real student data.",
+            "Demo mode uses an agenda separate from your real one. Changes to demo data do not change your teaching database."
+          ]
+        },
+        {
+          "title": "Add to Calendar",
+          "paragraphs": [
+            "Open a scheduled lesson and choose Add to Calendar. Apple’s editor proposes the title, location, times and an alert 30 minutes before. Select your calendar, including iCloud if already available on the device, then edit and save or cancel.",
+            "This is an independent copy. If you move or cancel the lesson in Agenda Tutor, also update the Calendar event. Adding it again creates another event. The event alert is separate from the app’s optional local reminder, which is scheduled 15 minutes before a lesson."
+          ]
+        },
+        {
+          "title": "Backups and restoring",
+          "paragraphs": [
+            "In Settings, export a complete backup and keep it in Files or another destination you choose. It includes students, personal notes, lessons, the payment ledger and attachments. The app does not add a password to the file.",
+            "Restore shows a preview and replaces the database after confirmation, keeping a local recovery copy of the previous data. Before changing devices or deleting the app, also save a copy outside the app. Apple device backup is a separate service; the agenda does not have its own iCloud synchronization."
+          ]
+        },
+        {
+          "title": "Notes, materials and receipts",
+          "paragraphs": [
+            "Student notes in a student’s details brings together teaching notes, next steps and optional personal context. Study materials can be files or images selected with iPhone’s pickers. In the edit form, additions and removals take effect when you save; Cancel discards the draft.",
+            "Receipts and payment notes belong to the corresponding payment. Adding or removing them does not change its recorded amount. Removing an attachment from the app does not delete the original in your library or selected provider."
+          ]
+        },
+        {
+          "title": "Payments, Free and Pro",
+          "paragraphs": [
+            "Record payment logs money you have already received. The app does not request transfers, move funds or access your Hype, Revolut or bank account. Money received above the outstanding balance becomes that student’s credit.",
+            "Free allows up to three active students. Pro is intended to extend limits and some features. Products and purchases may not yet be available during the beta; refer to the options shown in the app and Apple’s interface. This website does not sell subscriptions or publish prices."
+          ]
+        }
+      ]
+    }
+  }
+}
